@@ -1,4 +1,4 @@
-package com.codeflow.android.whatsthatgenietab;
+package com.android;
 
 import android.app.LocalActivityManager;
 import android.content.Intent;
